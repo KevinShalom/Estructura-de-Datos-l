@@ -1,0 +1,68 @@
+# depslib dependency file v1.0
+1647646351 source:c:\users\kevin\onedrive\escritorio\programas\cola\main.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	"Animal.h"
+	"nodo.h"
+	"cola.h"
+
+1647585356 source:c:\users\kevin\onedrive\escritorio\programas\cola\src\animal.cpp
+	"Animal.h"
+	"Animal.h"
+
+1647585314 c:\users\kevin\onedrive\escritorio\programas\cola\include\animal.h
+	<string>
+	<iostream>
+	<string>
+	<iostream>
+
+1647587585 source:c:\users\kevin\onedrive\escritorio\programas\cola\src\cola.cpp
+	"cola.h"
+
+1647585714 c:\users\kevin\onedrive\escritorio\programas\cola\include\cola.h
+	<string>
+	<iostream>
+	"nodo.h"
+	"Animal.h"
+
+1647672149 c:\users\kevin\onedrive\escritorio\programas\cola\include\nodo.h
+	<string>
+	<iostream>
+	"Animal.h"
+
+1647672149 source:c:\users\kevin\onedrive\escritorio\programas\cola\src\nodo.cpp
+	"nodo.h"
+
+1647588958 source:c:\users\familia\desktop\universidad tareas\segundo semestre\estructura de datos 1\cola\src\animal.cpp
+	"Animal.h"
+
+1666374304 c:\users\familia\desktop\universidad tareas\segundo semestre\estructura de datos 1\cola\include\animal.h
+	<string>
+	<iostream>
+
+1647591186 source:c:\users\familia\desktop\universidad tareas\segundo semestre\estructura de datos 1\cola\src\cola.cpp
+	"cola.h"
+
+1647589316 c:\users\familia\desktop\universidad tareas\segundo semestre\estructura de datos 1\cola\include\cola.h
+	<string>
+	<iostream>
+	"nodo.h"
+	"Animal.h"
+
+1666374304 c:\users\familia\desktop\universidad tareas\segundo semestre\estructura de datos 1\cola\include\nodo.h
+	<string>
+	<iostream>
+	"Animal.h"
+
+1647675750 source:c:\users\familia\desktop\universidad tareas\segundo semestre\estructura de datos 1\cola\src\nodo.cpp
+	"nodo.h"
+
+1666374107 source:c:\users\familia\desktop\universidad tareas\segundo semestre\estructura de datos 1\cola\main.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	"Animal.h"
+	"nodo.h"
+	"cola.h"
+

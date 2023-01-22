@@ -1,0 +1,85 @@
+# depslib dependency file v1.0
+1652333507 source:c:\users\kevin\onedrive\escritorio\programas\metodos de ordenamiento\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<string>
+	"nodo.h"
+	"ListaDoble.h"
+	"producto.h"
+
+1652416417 source:c:\users\kevin\onedrive\escritorio\programas\metodos de ordenamiento\src\listadoble.cpp
+	"ListaDoble.h"
+
+1652332007 c:\users\kevin\onedrive\escritorio\programas\metodos de ordenamiento\include\listadoble.h
+	"nodo.h"
+	"producto.h"
+
+1652313303 source:c:\users\kevin\onedrive\escritorio\programas\metodos de ordenamiento\src\producto.cpp
+	"producto.h"
+
+1652313109 c:\users\kevin\onedrive\escritorio\programas\metodos de ordenamiento\include\producto.h
+	<iostream>
+
+1652313762 source:c:\users\kevin\onedrive\escritorio\programas\metodos de ordenamiento\src\nodo.cpp
+	"nodo.h"
+
+1652313290 c:\users\kevin\onedrive\escritorio\programas\metodos de ordenamiento\include\nodo.h
+	"producto.h"
+
+1652333508 source:c:\users\familia\desktop\tareas\noe\prog04 castañeda pedro kevin everardo\metodos de ordenamiento\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<string>
+	"nodo.h"
+	"ListaDoble.h"
+	"producto.h"
+
+1652313292 c:\users\familia\desktop\tareas\noe\prog04 castañeda pedro kevin everardo\metodos de ordenamiento\include\nodo.h
+	"producto.h"
+
+1652313110 c:\users\familia\desktop\tareas\noe\prog04 castañeda pedro kevin everardo\metodos de ordenamiento\include\producto.h
+	<iostream>
+
+1652332008 c:\users\familia\desktop\tareas\noe\prog04 castañeda pedro kevin everardo\metodos de ordenamiento\include\listadoble.h
+	"nodo.h"
+	"producto.h"
+
+1652416418 source:c:\users\familia\desktop\tareas\noe\prog04 castañeda pedro kevin everardo\metodos de ordenamiento\src\listadoble.cpp
+	"ListaDoble.h"
+
+1652313764 source:c:\users\familia\desktop\tareas\noe\prog04 castañeda pedro kevin everardo\metodos de ordenamiento\src\nodo.cpp
+	"nodo.h"
+
+1652313304 source:c:\users\familia\desktop\tareas\noe\prog04 castañeda pedro kevin everardo\metodos de ordenamiento\src\producto.cpp
+	"producto.h"
+
+1667698363 source:c:\users\familia\desktop\universidad tareas\segundo semestre\estructura de datos 1\metodos de ordenamiento\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<string>
+	"nodo.h"
+	"ListaDoble.h"
+	"producto.h"
+
+1667698724 c:\users\familia\desktop\universidad tareas\segundo semestre\estructura de datos 1\metodos de ordenamiento\include\nodo.h
+	"producto.h"
+
+1667699799 c:\users\familia\desktop\universidad tareas\segundo semestre\estructura de datos 1\metodos de ordenamiento\include\producto.h
+	<iostream>
+
+1667698724 c:\users\familia\desktop\universidad tareas\segundo semestre\estructura de datos 1\metodos de ordenamiento\include\listadoble.h
+	"nodo.h"
+	"producto.h"
+
+1652412818 source:c:\users\familia\desktop\universidad tareas\segundo semestre\estructura de datos 1\metodos de ordenamiento\src\listadoble.cpp
+	"ListaDoble.h"
+
+1652310164 source:c:\users\familia\desktop\universidad tareas\segundo semestre\estructura de datos 1\metodos de ordenamiento\src\nodo.cpp
+	"nodo.h"
+
+1667167626 source:c:\users\familia\desktop\universidad tareas\segundo semestre\estructura de datos 1\metodos de ordenamiento\src\producto.cpp
+	"producto.h"
+

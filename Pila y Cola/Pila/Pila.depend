@@ -1,0 +1,91 @@
+# depslib dependency file v1.0
+1647666489 source:c:\users\kevin\onedrive\escritorio\programas\pila\main.cpp
+	<iostream>
+	<string>
+	"Animal.h"
+	"nodo.h"
+	"pila.h"
+
+1647667126 source:c:\users\kevin\onedrive\escritorio\programas\pila\src\nodo.cpp
+	"nodo.h"
+
+1647667139 c:\users\kevin\onedrive\escritorio\programas\pila\include\nodo.h
+	<string>
+	<iostream>
+	"Animal.h"
+
+1647567169 source:c:\users\kevin\onedrive\escritorio\programas\pila\src\pila.cpp
+	"pila.h"
+
+1647560407 c:\users\kevin\onedrive\escritorio\programas\pila\include\pila.h
+	<string>
+	<iostream>
+	"nodo.h"
+	"Animal.h"
+
+1647559680 source:c:\users\kevin\onedrive\escritorio\programas\pila\src\animal.cpp
+	"Animal.h"
+
+1647559726 c:\users\kevin\onedrive\escritorio\programas\pila\include\animal.h
+	<string>
+	<iostream>
+
+1647670090 source:c:\users\familia\desktop\tareas\noe\prog03 castañeda pedro kevin everardo\pila\main.cpp
+	<iostream>
+	<string>
+	"Animal.h"
+	"nodo.h"
+	"pila.h"
+
+1647563328 c:\users\familia\desktop\tareas\noe\prog03 castañeda pedro kevin everardo\pila\include\animal.h
+	<string>
+	<iostream>
+
+1647670740 c:\users\familia\desktop\tareas\noe\prog03 castañeda pedro kevin everardo\pila\include\nodo.h
+	<string>
+	<iostream>
+	"Animal.h"
+
+1647564008 c:\users\familia\desktop\tareas\noe\prog03 castañeda pedro kevin everardo\pila\include\pila.h
+	<string>
+	<iostream>
+	"nodo.h"
+	"Animal.h"
+
+1647563282 source:c:\users\familia\desktop\tareas\noe\prog03 castañeda pedro kevin everardo\pila\src\animal.cpp
+	"Animal.h"
+
+1647670728 source:c:\users\familia\desktop\tareas\noe\prog03 castañeda pedro kevin everardo\pila\src\nodo.cpp
+	"nodo.h"
+
+1666371903 source:c:\users\familia\desktop\universidad tareas\segundo semestre\estructura de datos 1\pila\main.cpp
+	<iostream>
+	<string>
+	"Animal.h"
+	"nodo.h"
+	"pila.h"
+
+1666371800 c:\users\familia\desktop\universidad tareas\segundo semestre\estructura de datos 1\pila\include\animal.h
+	<string>
+	<iostream>
+
+1666370707 c:\users\familia\desktop\universidad tareas\segundo semestre\estructura de datos 1\pila\include\nodo.h
+	<string>
+	<iostream>
+	"Animal.h"
+
+1666371784 c:\users\familia\desktop\universidad tareas\segundo semestre\estructura de datos 1\pila\include\pila.h
+	<string>
+	<iostream>
+	"nodo.h"
+	"Animal.h"
+
+1666370707 source:c:\users\familia\desktop\universidad tareas\segundo semestre\estructura de datos 1\pila\src\animal.cpp
+	"Animal.h"
+
+1647670728 source:c:\users\familia\desktop\universidad tareas\segundo semestre\estructura de datos 1\pila\src\nodo.cpp
+	"nodo.h"
+
+1666371903 source:c:\users\familia\desktop\universidad tareas\segundo semestre\estructura de datos 1\pila\src\pila.cpp
+	"pila.h"
+

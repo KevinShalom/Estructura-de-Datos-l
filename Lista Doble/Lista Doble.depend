@@ -1,0 +1,82 @@
+# depslib dependency file v1.0
+1646114209 source:c:\programas\lista doble\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<string>
+	"nodo.h"
+	"ListaDoble.h"
+	"Animal.h"
+
+1646110226 source:c:\programas\lista doble\src\animal.cpp
+	"Animal.h"
+
+1646113007 c:\programas\lista doble\include\animal.h
+	<iostream>
+
+1646111590 source:c:\programas\lista doble\src\nodo.cpp
+	"nodo.h"
+
+1646111207 c:\programas\lista doble\include\nodo.h
+	"Animal.h"
+
+1646113708 source:c:\programas\lista doble\src\listadoble.cpp
+	"ListaDoble.h"
+
+1646112143 c:\programas\lista doble\include\listadoble.h
+	"nodo.h"
+
+1646110228 source:d:\lista doble\src\animal.cpp
+	"Animal.h"
+
+1646113008 d:\lista doble\include\animal.h
+	<iostream>
+
+1646447044 source:d:\lista doble\src\listadoble.cpp
+	"ListaDoble.h"
+
+1646375800 d:\lista doble\include\listadoble.h
+	"nodo.h"
+
+1646111208 d:\lista doble\include\nodo.h
+	"Animal.h"
+
+1646111592 source:d:\lista doble\src\nodo.cpp
+	"nodo.h"
+
+1646446516 source:d:\lista doble\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<string>
+	"nodo.h"
+	"ListaDoble.h"
+	"Animal.h"
+
+1665546722 source:c:\users\familia\desktop\lista del chavo que me presto\lista doble\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<string>
+	"nodo.h"
+	"ListaDoble.h"
+	"Animal.h"
+
+1646118408 c:\users\familia\desktop\lista del chavo que me presto\lista doble\include\nodo.h
+	"Animal.h"
+
+1646120208 c:\users\familia\desktop\lista del chavo que me presto\lista doble\include\animal.h
+	<iostream>
+
+1646383000 c:\users\familia\desktop\lista del chavo que me presto\lista doble\include\listadoble.h
+	"nodo.h"
+
+1646117428 source:c:\users\familia\desktop\lista del chavo que me presto\lista doble\src\animal.cpp
+	"Animal.h"
+
+1665543621 source:c:\users\familia\desktop\lista del chavo que me presto\lista doble\src\listadoble.cpp
+	"ListaDoble.h"
+
+1646118792 source:c:\users\familia\desktop\lista del chavo que me presto\lista doble\src\nodo.cpp
+	"nodo.h"
+

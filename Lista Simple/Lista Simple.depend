@@ -1,0 +1,85 @@
+# depslib dependency file v1.0
+1645769359 source:c:\programas\lista simple\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<string>
+	"nodo.h"
+	"lista.h"
+
+1645596899 source:c:\programas\lista simple\src\nodo.cpp
+	"nodo.h"
+
+1645597291 c:\programas\lista simple\include\nodo.h
+	<string>
+
+1645851342 source:c:\programas\lista simple\src\lista.cpp
+	"lista.h"
+
+1645767560 c:\programas\lista simple\include\lista.h
+	<iostream>
+	"nodo.h"
+
+1664128025 source:c:\users\familia\downloads\lista simple\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<string>
+	"nodo.h"
+	"lista.h"
+
+1664126257 c:\users\familia\downloads\lista simple\include\nodo.h
+	<string>
+
+1645771162 c:\users\familia\downloads\lista simple\include\lista.h
+	<iostream>
+	"nodo.h"
+
+1645854944 source:c:\users\familia\downloads\lista simple\src\lista.cpp
+	"lista.h"
+
+1645600500 source:c:\users\familia\downloads\lista simple\src\nodo.cpp
+	"nodo.h"
+
+1664677185 source:c:\users\familia\desktop\universidad tareas\segundo semestre\estructura de datos 1\lista simple\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<string>
+	"nodo.h"
+	"lista.h"
+
+1664126257 c:\users\familia\desktop\universidad tareas\segundo semestre\estructura de datos 1\lista simple\include\nodo.h
+	<string>
+
+1645771162 c:\users\familia\desktop\universidad tareas\segundo semestre\estructura de datos 1\lista simple\include\lista.h
+	<iostream>
+	"nodo.h"
+
+1664932051 source:c:\users\familia\desktop\universidad tareas\segundo semestre\estructura de datos 1\lista simple\src\lista.cpp
+	"lista.h"
+
+1645600500 source:c:\users\familia\desktop\universidad tareas\segundo semestre\estructura de datos 1\lista simple\src\nodo.cpp
+	"nodo.h"
+
+1664676951 source:c:\users\familia\desktop\lista que se entrega hoy\lista simple\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<string>
+	"nodo.h"
+	"lista.h"
+
+1664126257 c:\users\familia\desktop\lista que se entrega hoy\lista simple\include\nodo.h
+	<string>
+
+1645771162 c:\users\familia\desktop\lista que se entrega hoy\lista simple\include\lista.h
+	<iostream>
+	"nodo.h"
+
+1664580704 source:c:\users\familia\desktop\lista que se entrega hoy\lista simple\src\lista.cpp
+	"lista.h"
+
+1645600500 source:c:\users\familia\desktop\lista que se entrega hoy\lista simple\src\nodo.cpp
+	"nodo.h"
+
